@@ -3,6 +3,9 @@
 A React Native assignment built with Expo SDK 54. A horizontally scrollable, performance-optimised hero gallery that fetches media from an API, applies smart layout rules, and supports full-screen viewing with zoom.
 
 ---
+<img src="/ss1.jpg" width="280" height="580"/>
+
+[![Demo Video]](https://github.com/divyanshbarar/smart-hero-gallery/video1.mp4)
 
 ## Setup & Running
 
