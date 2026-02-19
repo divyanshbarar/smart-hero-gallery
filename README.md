@@ -5,7 +5,6 @@ A React Native assignment built with Expo SDK 54. A horizontally scrollable, per
 ---
 <img src="/ss1.jpg" width="280" height="580"/>
 
-[![Demo Video]](https://github.com/divyanshbarar/smart-hero-gallery/video1.mp4)
 
 ## Setup & Running
 
