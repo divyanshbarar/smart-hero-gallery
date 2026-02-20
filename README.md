@@ -1,6 +1,7 @@
 # Smart Hero Gallery (Alive)
 
-A React Native assignment built with Expo SDK 54. A horizontally scrollable, performance-optimised hero gallery that fetches media from an API, applies smart layout rules, and supports full-screen viewing with zoom.
+Used Expo SDK 54.
+A horizontally scrollable, performance-optimised hero gallery that fetches media from backend api, applies smart layout, and supports full-screen viewing with zoom.
 
 ---
 <img src="/ss1.jpg" width="280" height="580"/>
@@ -26,9 +27,6 @@ npm run android
 # Run on iOS
 npm run ios
 ```
-
-> **Splash Screen note**: Since `expo-splash-screen` is a native plugin, splash screen changes only take effect after a full native rebuild (`npx expo run:android` or `npx expo run:ios`), not in Expo Go.
-
 ---
 
 ## Tech Stack & Dependencies
